@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "33CDKFUpOJ2IiWJv3rhr4ZCyfRO5U/8ePA8ctlQfb+CAy26p5xUVmnztAwK2phSWIcyBhxSPiAZ4UUXJdHCaAA==",
+  "dgSpecHash": "kic4c44q23ICjvt8k5ekQ+foJHk/pU8sT4+9MYvlaMZzztQHx+5Pclgw2HhqutSYWH3nB3g+kmQs07J9IoDm7A==",
   "success": true,
-  "projectFilePath": "/Users/ola/ContactManager-InClass/ContactManager-InClass.csproj",
+  "projectFilePath": "C:\\Users\\rados\\CSharp\\New folder\\ContactManager-InClass-1\\ContactManager-InClass.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

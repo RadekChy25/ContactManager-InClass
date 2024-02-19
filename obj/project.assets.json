@@ -8,25 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/ola/.nuget/packages/": {}
+    "C:\\Users\\rados\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ola/ContactManager-InClass/ContactManager-InClass.csproj",
+      "projectUniqueName": "C:\\Users\\rados\\CSharp\\New folder\\ContactManager-InClass-1\\ContactManager-InClass.csproj",
       "projectName": "ContactManager-InClass",
-      "projectPath": "/Users/ola/ContactManager-InClass/ContactManager-InClass.csproj",
-      "packagesPath": "/Users/ola/.nuget/packages/",
-      "outputPath": "/Users/ola/ContactManager-InClass/obj/",
+      "projectPath": "C:\\Users\\rados\\CSharp\\New folder\\ContactManager-InClass-1\\ContactManager-InClass.csproj",
+      "packagesPath": "C:\\Users\\rados\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rados\\CSharp\\New folder\\ContactManager-InClass-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ola/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\rados\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
