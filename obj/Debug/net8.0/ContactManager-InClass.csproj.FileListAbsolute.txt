@@ -1,0 +1,15 @@
+C:\Users\Predator\Desktop\myprogram\ContactManager-InClass\bin\Debug\net8.0\ContactManager-InClass.exe
+C:\Users\Predator\Desktop\myprogram\ContactManager-InClass\bin\Debug\net8.0\ContactManager-InClass.deps.json
+C:\Users\Predator\Desktop\myprogram\ContactManager-InClass\bin\Debug\net8.0\ContactManager-InClass.runtimeconfig.json
+C:\Users\Predator\Desktop\myprogram\ContactManager-InClass\bin\Debug\net8.0\ContactManager-InClass.dll
+C:\Users\Predator\Desktop\myprogram\ContactManager-InClass\bin\Debug\net8.0\ContactManager-InClass.pdb
+C:\Users\Predator\Desktop\myprogram\ContactManager-InClass\obj\Debug\net8.0\ContactManager-InClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Predator\Desktop\myprogram\ContactManager-InClass\obj\Debug\net8.0\ContactManager-InClass.AssemblyInfoInputs.cache
+C:\Users\Predator\Desktop\myprogram\ContactManager-InClass\obj\Debug\net8.0\ContactManager-InClass.AssemblyInfo.cs
+C:\Users\Predator\Desktop\myprogram\ContactManager-InClass\obj\Debug\net8.0\ContactManager-InClass.csproj.CoreCompileInputs.cache
+C:\Users\Predator\Desktop\myprogram\ContactManager-InClass\obj\Debug\net8.0\ContactManager-InClass.sourcelink.json
+C:\Users\Predator\Desktop\myprogram\ContactManager-InClass\obj\Debug\net8.0\ContactManager-InClass.dll
+C:\Users\Predator\Desktop\myprogram\ContactManager-InClass\obj\Debug\net8.0\refint\ContactManager-InClass.dll
+C:\Users\Predator\Desktop\myprogram\ContactManager-InClass\obj\Debug\net8.0\ContactManager-InClass.pdb
+C:\Users\Predator\Desktop\myprogram\ContactManager-InClass\obj\Debug\net8.0\ContactManager-InClass.genruntimeconfig.cache
+C:\Users\Predator\Desktop\myprogram\ContactManager-InClass\obj\Debug\net8.0\ref\ContactManager-InClass.dll
