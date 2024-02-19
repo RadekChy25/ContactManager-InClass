@@ -1,0 +1,15 @@
+/Users/ola/ContactManager-InClass/bin/Debug/net8.0/ContactManager-InClass
+/Users/ola/ContactManager-InClass/bin/Debug/net8.0/ContactManager-InClass.deps.json
+/Users/ola/ContactManager-InClass/bin/Debug/net8.0/ContactManager-InClass.runtimeconfig.json
+/Users/ola/ContactManager-InClass/bin/Debug/net8.0/ContactManager-InClass.dll
+/Users/ola/ContactManager-InClass/bin/Debug/net8.0/ContactManager-InClass.pdb
+/Users/ola/ContactManager-InClass/obj/Debug/net8.0/ContactManager-InClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ola/ContactManager-InClass/obj/Debug/net8.0/ContactManager-InClass.AssemblyInfoInputs.cache
+/Users/ola/ContactManager-InClass/obj/Debug/net8.0/ContactManager-InClass.AssemblyInfo.cs
+/Users/ola/ContactManager-InClass/obj/Debug/net8.0/ContactManager-InClass.csproj.CoreCompileInputs.cache
+/Users/ola/ContactManager-InClass/obj/Debug/net8.0/ContactManager-InClass.sourcelink.json
+/Users/ola/ContactManager-InClass/obj/Debug/net8.0/ContactManager-InClass.dll
+/Users/ola/ContactManager-InClass/obj/Debug/net8.0/refint/ContactManager-InClass.dll
+/Users/ola/ContactManager-InClass/obj/Debug/net8.0/ContactManager-InClass.pdb
+/Users/ola/ContactManager-InClass/obj/Debug/net8.0/ContactManager-InClass.genruntimeconfig.cache
+/Users/ola/ContactManager-InClass/obj/Debug/net8.0/ref/ContactManager-InClass.dll
