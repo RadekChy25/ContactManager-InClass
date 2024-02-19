@@ -30,6 +30,7 @@ namespace ContactManagementSystem
             var options = new JsonSerializerOptions { WriteIndented = true};
 
             string json = JsonSerializer.Serializer(contacts, options);
+            
 
             FileContactStorage.WriteAllText(filePath, json);
             // Save contacts to JSON file
