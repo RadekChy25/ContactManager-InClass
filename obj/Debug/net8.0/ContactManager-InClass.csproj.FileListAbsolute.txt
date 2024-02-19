@@ -1,0 +1,15 @@
+C:\Users\rados\CSharp\New folder\ContactManager-InClass\bin\Debug\net8.0\ContactManager-InClass.exe
+C:\Users\rados\CSharp\New folder\ContactManager-InClass\bin\Debug\net8.0\ContactManager-InClass.deps.json
+C:\Users\rados\CSharp\New folder\ContactManager-InClass\bin\Debug\net8.0\ContactManager-InClass.runtimeconfig.json
+C:\Users\rados\CSharp\New folder\ContactManager-InClass\bin\Debug\net8.0\ContactManager-InClass.dll
+C:\Users\rados\CSharp\New folder\ContactManager-InClass\bin\Debug\net8.0\ContactManager-InClass.pdb
+C:\Users\rados\CSharp\New folder\ContactManager-InClass\obj\Debug\net8.0\ContactManager-InClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\CSharp\New folder\ContactManager-InClass\obj\Debug\net8.0\ContactManager-InClass.AssemblyInfoInputs.cache
+C:\Users\rados\CSharp\New folder\ContactManager-InClass\obj\Debug\net8.0\ContactManager-InClass.AssemblyInfo.cs
+C:\Users\rados\CSharp\New folder\ContactManager-InClass\obj\Debug\net8.0\ContactManager-InClass.csproj.CoreCompileInputs.cache
+C:\Users\rados\CSharp\New folder\ContactManager-InClass\obj\Debug\net8.0\ContactManager-InClass.sourcelink.json
+C:\Users\rados\CSharp\New folder\ContactManager-InClass\obj\Debug\net8.0\ContactManager-InClass.dll
+C:\Users\rados\CSharp\New folder\ContactManager-InClass\obj\Debug\net8.0\refint\ContactManager-InClass.dll
+C:\Users\rados\CSharp\New folder\ContactManager-InClass\obj\Debug\net8.0\ContactManager-InClass.pdb
+C:\Users\rados\CSharp\New folder\ContactManager-InClass\obj\Debug\net8.0\ContactManager-InClass.genruntimeconfig.cache
+C:\Users\rados\CSharp\New folder\ContactManager-InClass\obj\Debug\net8.0\ref\ContactManager-InClass.dll
